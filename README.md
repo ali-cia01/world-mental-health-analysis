@@ -41,15 +41,15 @@ Significance: Statistically demonstrated that specific mental disorders are clos
   <tr>
     <td align="center">
       <img width="278" src="https://github.com/user-attachments/assets/003e0601-16df-4612-9376-122bb54db25b" alt="Eating Disorders Prevalence" /><br>
-      <b>Eating Disorders</b>
+      <b>Bipolar Disorder</b>
     </td>
     <td align="center">
       <img width="279" src="https://github.com/user-attachments/assets/91c838fa-d00a-4d20-a2f6-0a3be56118be" alt="Anxiety Disorders Prevalence" /><br>
-      <b>Anxiety Disorders</b>
+      <b>Eating Disorders</b>
     </td>
     <td align="center">
       <img width="279" src="https://github.com/user-attachments/assets/932ca2dd-aabd-4e6b-af4e-f20c464fb298" alt="Bipolar Disorder Prevalence" /><br>
-      <b>Bipolar Disorder</b>
+      <b>Anxiety Disorders</b>
     </td>
   </tr>
 </table>
