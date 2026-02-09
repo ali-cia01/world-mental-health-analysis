@@ -1,8 +1,8 @@
 import pandas as pd
 
 def load_data():
-    prev_df = pd.read_csv('/content/drive/MyDrive/1- mental-illnesses-prevalence.csv')
-    dalys_df = pd.read_csv('/content/drive/MyDrive/updated_burden_data.csv')
+    prev_df = pd.read_csv('1- mental-illnesses-prevalence.csv')
+    dalys_df = pd.read_csv('updated_burden_data.csv')
 
     rename_rules = {
         'Schizophrenia disorders (share of population) - Sex: Both - Age: Age-standardized': 'Schizophrenia',
