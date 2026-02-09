@@ -26,10 +26,18 @@ Performance: The predictive model for Eating Disorders achieved a high explanato
 
 🛠 Tech Stack
 
-Language: Python 3.x
+- Language: Python 3.x
+- Data Processing: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn (Heatmaps, Time-series plots)
+- Machine Learning: Scikit-learn (Linear Regression)
 
-Data Processing: Pandas, NumPy
+📂 Implementation Details
 
-Visualization: Matplotlib, Seaborn (Heatmaps, Time-series plots)
+1. Data Preprocessing 
+- Missing Value Management: Removed the Code column due to high missing value counts (270 in Prevalence data, 690 in DALYs data) to ensure data integrity.
+- Feature Engineering: Simplified long original variable names into clear identifiers such as Schizophrenia, Depression, Anxiety, Bipolar, and Eating_Disorders for better readability and coding efficiency.
+- Data Aggregation: Calculated the Yearly Mean for each disorder to minimize noise from regional outliers and capture consistent global trends.
 
-Machine Learning: Scikit-learn (Linear Regression)
+
+
+
