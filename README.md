@@ -27,7 +27,7 @@ Eating Disorders & Bipolar Disorder: Identified a high correlation coefficient o
 Anxiety Disorders & Eating Disorders: Confirmed a significant correlation ranging from 0.59 to 0.60.
 Significance: Statistically demonstrated that specific mental disorders are closely interrelated rather than occurring in isolation, highlighting the critical need for multidisciplinary and integrated treatment strategies.
 
-<img width="348" height="261" alt="image" src="https://github.com/user-attachments/assets/ddb1c078-6c06-40af-9ef7-efa86b9916a9" />
+<img width="284" height="213" alt="image" src="https://github.com/user-attachments/assets/ddb1c078-6c06-40af-9ef7-efa86b9916a9" />
 <img width="284" height="213" alt="image" src="https://github.com/user-attachments/assets/5387fbfa-87e7-4668-b1f4-20449f989064" />
 
 ### 3. Machine Learning-based Future Projections
