@@ -1,9 +1,10 @@
 import pandas as pd
 
-def load_data():
-    prev_df = pd.read_csv('1- mental-illnesses-prevalence.csv')
-    dalys_df = pd.read_csv('updated_burden_data.csv')
-
+def load_data(prev_path, dalys_path):
+    """Load prevalence and DALYs datasets"""
+    prev_df = pd.read_csv(prev_path)
+    dalys_df = pd.read_csv(dalys_path)
+    
     rename_rules = {
         'Schizophrenia disorders (share of population) - Sex: Both - Age: Age-standardized': 'Schizophrenia',
         'Depressive disorders (share of population) - Sex: Both - Age: Age-standardized': 'Depression',
@@ -16,8 +17,8 @@ def load_data():
         'DALYs (rate) - Sex: Both - Age: Age-standardized - Cause: Eating disorders': 'Eating_Disorders',
         'DALYs (rate) - Sex: Both - Age: Age-standardized - Cause: Anxiety disorders': 'Anxiety'
     }
-
-    prev_df = prev_df.rename(columns=rename_prev)
-    dalys_df = dalys_df.rename(columns=rename_prev)
-
-    return prev_df, dalys_df, rename_rules
+    
+    prev_df = prev_df.rename(columns=rename_rules)
+    dalys_df = dalys_df.rename(columns=rename_rules)
+    
+    return prev_df, dalys_df
