@@ -9,12 +9,15 @@
 ## 📌 Project Overview
 
 Mental health disorders have become a significant global health concern, imposing substantial social and economic burdens. This project conducts a comprehensive data-driven analysis of global mental health trends from 1990 to 2019, specifically focusing on the interactions between Anxiety Disorders, Eating Disorders, and Bipolar Disorder. By utilizing Prevalence and DALYs (Disability-Adjusted Life Years) datasets, this research explores how these disorders correlate and predicts their future trajectories using linear regression models.
----
+
 ## 🔍 Key Analysis & Results
 
 ### 1. Yearly Trends in Prevalence and DALYs
 Description: Visualized the consistent upward trend in global mental health disorder prevalence over the past 30 years.
 Insight: Confirmed that Anxiety Disorders and Depression account for the largest proportion of cases, with a parallel rise in Disability-Adjusted Life Years (DALYs) across the global population.
+<img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/1b9d76a7-29a4-4253-9630-b3ad14e63b2a" />
+<img width="283" height="189" alt="image" src="https://github.com/user-attachments/assets/c7c46843-52a1-427e-b0d1-948aab9d03d6" />
+
 
 ### 2. Cross-Disorder Correlation Analysis
 Results:
@@ -25,7 +28,7 @@ Significance: Statistically demonstrated that specific mental disorders are clos
 ### 3. Machine Learning-based Future Projections
 Model: Linear Regression.
 Performance: The predictive model for Eating Disorders achieved a high explanatory power with an R<sup>2</sup>  value of 0.97, enabling precise forecasting of potential prevalence increases over the next decade.
----
+
 ## 📂 Implementation Details
 
 ### 1. Data Preprocessing 
@@ -37,7 +40,7 @@ Performance: The predictive model for Eating Disorders achieved a high explanato
 - Statistical Distribution Analysis: Utilized Gini Coefficient and Silhouette Analysis by country to understand data clustering and distribution characteristics, justifying the use of mean values for stable trend analysis.
 - Correlation Study: Performed Pearson correlation analysis and visualized results through a Correlation Matrix Heatmap to identify significant co-occurrence patterns between disorders.
 - Predictive Modeling: Developed Linear Regression models using yearly average data to forecast future trends, evaluating performance through R<sup>2</sup> (Coefficient of Determination) and MSE (Mean Squared Error).
----
+
 ## 💡 Key Insights & Implications
 ### 1. Integrated Care & Multidisciplinary Approach
 Pathological Connection: The high statistical correlation between disorders (e.g., Eating Disorders and Bipolar Disorder) suggests the likelihood of shared underlying pathological mechanisms.
@@ -48,14 +51,14 @@ Integrated Treatment Model: These findings emphasize the necessity of adopting m
 Rising Healthcare Demand: The upward trajectory predicted by linear regression analysis signals a significant surge in global demand for mental health services in the coming years.
 
 Evidence-Based Strategy: Governments and health organizations must utilize these predictive insights to prioritize the preemptive allocation of medical resources and establish robust early intervention systems.
----
+
 ## 🛠 Tech Stack
 
 - Language: Python 3.x
 - Data Processing: Pandas, NumPy
 - Visualization: Matplotlib, Seaborn (Heatmaps, Time-series plots)
 - Machine Learning: Scikit-learn (Linear Regression)
----
+
 ## 📚 References
 Kaggle: Mental Health Dataset
 Here to Help:
