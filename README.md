@@ -35,8 +35,8 @@ Significance: Statistically demonstrated that specific mental disorders are clos
 - Dual-Track Forecasting: We conducted predictive modeling for both **Prevalence** (spread of disorders) and **DALYs** (the actual health burden). This dual approach provides a more holistic view of the future mental health landscape.
 - Key Performance (Prevalence):The predictive model for Eating Disorders recorded an **R<sup>2</sup> of 0.9720**, demonstrating exceptional accuracy.Models for Anxiety and Bipolar Disorder also showed consistent upward trends with high reliability.
 - Key Performance (DALYs):The DALYs projection models achieved high explanatory power, confirming that the societal burden of mental disorders will rise in tandem with prevalence.This validates the model's utility in predicting not just the number of patients, but the increasing demand for long-term healthcare resources.
-### 📊 Visualization: Prevalence vs. DALYs Projections
-#### 📈 Prevalence Projections (Future Trends in Case Numbers)
+## 📊 Visualization: Prevalence vs. DALYs Projections
+### 📈 Prevalence Projections (Future Trends in Case Numbers)
 <table border="0">
   <tr>
     <td align="center">
