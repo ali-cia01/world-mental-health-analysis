@@ -25,6 +25,7 @@ Model: Linear Regression.
 Performance: The predictive model for Eating Disorders achieved a high explanatory power with an R<sup>2</sup>  value of 0.97, enabling precise forecasting of potential prevalence increases over the next decade.
 
 🛠 Tech Stack
+
 Language: Python 3.x
 
 Data Processing: Pandas, NumPy
