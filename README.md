@@ -13,21 +13,66 @@ Mental health disorders have become a significant global health concern, imposin
 ## 🔍 Key Analysis & Results
 
 ### 1. Yearly Trends in Prevalence and DALYs
-Description: Visualized the consistent upward trend in global mental health disorder prevalence over the past 30 years.
-Insight: Confirmed that Anxiety Disorders and Depression account for the largest proportion of cases, with a parallel rise in Disability-Adjusted Life Years (DALYs) across the global population.
+- Description: Visualized the consistent upward trend in global mental health disorder prevalence over the past 30 years.
+
+- Insight: Confirmed that Anxiety Disorders and Depression account for the largest proportion of cases, with a parallel rise in Disability-Adjusted Life Years (DALYs) across the global population.
+
 <img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/1b9d76a7-29a4-4253-9630-b3ad14e63b2a" />
 <img width="283" height="189" alt="image" src="https://github.com/user-attachments/assets/c7c46843-52a1-427e-b0d1-948aab9d03d6" />
 
 
 ### 2. Cross-Disorder Correlation Analysis
-Results:
+- Results:
 Eating Disorders & Bipolar Disorder: Identified a high correlation coefficient of 0.68.
 Anxiety Disorders & Eating Disorders: Confirmed a significant correlation ranging from 0.59 to 0.60.
 Significance: Statistically demonstrated that specific mental disorders are closely interrelated rather than occurring in isolation, highlighting the critical need for multidisciplinary and integrated treatment strategies.
 
+<img width="348" height="261" alt="image" src="https://github.com/user-attachments/assets/ddb1c078-6c06-40af-9ef7-efa86b9916a9" />
+<img width="284" height="213" alt="image" src="https://github.com/user-attachments/assets/5387fbfa-87e7-4668-b1f4-20449f989064" />
+
 ### 3. Machine Learning-based Future Projections
-Model: Linear Regression.
-Performance: The predictive model for Eating Disorders achieved a high explanatory power with an R<sup>2</sup>  value of 0.97, enabling precise forecasting of potential prevalence increases over the next decade.
+
+- Dual-Track Forecasting: We conducted predictive modeling for both Prevalence (spread of disorders) and DALYs (the actual health burden). This dual approach provides a more holistic view of the future mental health landscape.
+- Key Performance (Prevalence):The predictive model for Eating Disorders recorded an R<sup>2</sup> of 0.9720, demonstrating exceptional accuracy.Models for Anxiety and Bipolar Disorder also showed consistent upward trends with high reliability.
+- Key Performance (DALYs):The DALYs projection models achieved high explanatory power, confirming that the societal burden of mental disorders will rise in tandem with prevalence.This validates the model's utility in predicting not just the number of patients, but the increasing demand for long-term healthcare resources.
+### 📊 Visualization: Prevalence vs. DALYs Projections
+#### 📈 Prevalence Projections (Future Trends in Case Numbers)
+<table border="0">
+  <tr>
+    <td align="center">
+      <img width="278" src="https://github.com/user-attachments/assets/003e0601-16df-4612-9376-122bb54db25b" alt="Eating Disorders Prevalence" /><br>
+      <b>Eating Disorders</b>
+    </td>
+    <td align="center">
+      <img width="279" src="https://github.com/user-attachments/assets/91c838fa-d00a-4d20-a2f6-0a3be56118be" alt="Anxiety Disorders Prevalence" /><br>
+      <b>Anxiety Disorders</b>
+    </td>
+    <td align="center">
+      <img width="279" src="https://github.com/user-attachments/assets/932ca2dd-aabd-4e6b-af4e-f20c464fb298" alt="Bipolar Disorder Prevalence" /><br>
+      <b>Bipolar Disorder</b>
+    </td>
+  </tr>
+</table>
+
+#### 📉 DALYs Projections (Future Trends in Health Burden)
+<table border="0">
+  <tr>
+    <td align="center">
+      <img width="278" src="https://github.com/user-attachments/assets/dbaa54db-7555-47f9-a037-2337147ca108" alt="Eating Disorders DALYs" /><br>
+      <b>Eating Disorders (DALYs)</b>
+    </td>
+    <td align="center">
+      <img width="278" src="https://github.com/user-attachments/assets/c12d8eeb-c0d8-455f-b9e4-81a1e07c7ac9" alt="Anxiety Disorders DALYs" /><br>
+      <b>Anxiety Disorders (DALYs)</b>
+    </td>
+    <td align="center">
+      <img width="279" src="https://github.com/user-attachments/assets/5bc3e2b7-add3-4102-91f7-b159c93ec5b1" alt="Bipolar Disorder DALYs" /><br>
+      <b>Bipolar Disorder (DALYs)</b>
+    </td>
+  </tr>
+</table>
+
+
 
 ## 📂 Implementation Details
 
