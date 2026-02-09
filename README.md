@@ -9,3 +9,19 @@
 
 Mental health disorders have become a significant global health concern, imposing substantial social and economic burdens. This project conducts a comprehensive data-driven analysis of global mental health trends from 1990 to 2019, specifically focusing on the interactions between Anxiety Disorders, Eating Disorders, and Bipolar Disorder. By utilizing Prevalence and DALYs (Disability-Adjusted Life Years) datasets, this research explores how these disorders correlate and predicts their future trajectories using linear regression models.
 
+🔍 Key Analysis & Results
+1. Yearly Trends in Prevalence and DALYs
+Description: Visualized the consistent upward trend in global mental health disorder prevalence over the past 30 years.
+Insight: Confirmed that Anxiety Disorders and Depression account for the largest proportion of cases, with a parallel rise in Disability-Adjusted Life Years (DALYs) across the global population.
+
+
+2. Cross-Disorder Correlation Analysis
+Results:
+Eating Disorders & Bipolar Disorder: Identified a high correlation coefficient of 0.68.
+Anxiety Disorders & Eating Disorders: Confirmed a significant correlation ranging from 0.59 to 0.60.
+Significance: Statistically demonstrated that specific mental disorders are closely interrelated rather than occurring in isolation, highlighting the critical need for multidisciplinary and integrated treatment strategies.
+3. Machine Learning-based Future Projections
+Model: Linear Regression.
+Performance: The predictive model for Eating Disorders achieved a high explanatory power with an R<sup>2</sup>  value of 0.97, enabling precise forecasting of potential prevalence increases over the next decade.
+
+
