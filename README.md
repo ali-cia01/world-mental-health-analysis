@@ -38,6 +38,11 @@ Performance: The predictive model for Eating Disorders achieved a high explanato
 - Feature Engineering: Simplified long original variable names into clear identifiers such as Schizophrenia, Depression, Anxiety, Bipolar, and Eating_Disorders for better readability and coding efficiency.
 - Data Aggregation: Calculated the Yearly Mean for each disorder to minimize noise from regional outliers and capture consistent global trends.
 
+2. Research Methodology
+- Statistical Distribution Analysis: Utilized Gini Coefficient and Silhouette Analysis by country to understand data clustering and distribution characteristics, justifying the use of mean values for stable trend analysis.
+- Correlation Study: Performed Pearson correlation analysis and visualized results through a Correlation Matrix Heatmap to identify significant co-occurrence patterns between disorders.
+- Predictive Modeling: Developed Linear Regression models using yearly average data to forecast future trends, evaluating performance through R<sup>2</sup> (Coefficient of Determination) and MSE (Mean Squared Error).
+
 
 
 
