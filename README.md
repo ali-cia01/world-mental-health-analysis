@@ -84,7 +84,7 @@ Significance: Statistically demonstrated that specific mental disorders are clos
 ### 2. Research Methodology
 - Statistical Distribution Analysis: Utilized Gini Coefficient and Silhouette Analysis by country to understand data clustering and distribution characteristics, justifying the use of mean values for stable trend analysis.
 - Correlation Study: Performed Pearson correlation analysis and visualized results through a Correlation Matrix Heatmap to identify significant co-occurrence patterns between disorders.
-- Predictive Modeling: Developed Linear Regression models using yearly average data to forecast future trends, evaluating performance through R<sup>2</sup> (Coefficient of Determination) and MSE (Mean Squared Error).
+- Predictive Modeling: Developed Linear Regression models using yearly average data to forecast future trends, evaluating performance through **R<sup>2</sup>** (Coefficient of Determination) and **MSE** (Mean Squared Error).
 
 ## 💡 Key Insights & Implications
 ### 1. Integrated Care & Multidisciplinary Approach
