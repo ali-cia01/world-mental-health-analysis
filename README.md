@@ -57,17 +57,17 @@ Significance: Statistically demonstrated that specific mental disorders are clos
 #### 📉 DALYs Projections (Future Trends in Health Burden)
 <table border="0">
   <tr>
+        <td align="center">
+      <img width="278" src="https://github.com/user-attachments/assets/c12d8eeb-c0d8-455f-b9e4-81a1e07c7ac9" alt="Anxiety Disorders DALYs" /><br>
+      <b>Bipolar Disorder (DALYs)</b>
+    </td>
     <td align="center">
       <img width="278" src="https://github.com/user-attachments/assets/dbaa54db-7555-47f9-a037-2337147ca108" alt="Eating Disorders DALYs" /><br>
       <b>Eating Disorders (DALYs)</b>
     </td>
     <td align="center">
-      <img width="278" src="https://github.com/user-attachments/assets/c12d8eeb-c0d8-455f-b9e4-81a1e07c7ac9" alt="Anxiety Disorders DALYs" /><br>
-      <b>Anxiety Disorders (DALYs)</b>
-    </td>
-    <td align="center">
       <img width="279" src="https://github.com/user-attachments/assets/5bc3e2b7-add3-4102-91f7-b159c93ec5b1" alt="Bipolar Disorder DALYs" /><br>
-      <b>Bipolar Disorder (DALYs)</b>
+      <b>Anxiety Disorders (DALYs)</b>
     </td>
   </tr>
 </table>
