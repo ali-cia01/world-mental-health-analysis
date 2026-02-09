@@ -15,7 +15,7 @@ Mental health disorders have become a significant global health concern, imposin
 ### 1. Yearly Trends in Prevalence and DALYs
 - Description: Visualized the consistent upward trend in global mental health disorder prevalence over the past 30 years.
 
-- Insight: Confirmed that Anxiety Disorders and Depression account for the largest proportion of cases, with a parallel rise in Disability-Adjusted Life Years (DALYs) across the global population.
+- Insight: Confirmed that **Anxiety Disorders** and **Depression** account for the largest proportion of cases, with a parallel rise in Disability-Adjusted Life Years (DALYs) across the global population.
 
 <img width="285" height="190" alt="image" src="https://github.com/user-attachments/assets/1b9d76a7-29a4-4253-9630-b3ad14e63b2a" />
 <img width="283" height="189" alt="image" src="https://github.com/user-attachments/assets/c7c46843-52a1-427e-b0d1-948aab9d03d6" />
@@ -23,8 +23,8 @@ Mental health disorders have become a significant global health concern, imposin
 
 ### 2. Cross-Disorder Correlation Analysis
 - Results:
-Eating Disorders & Bipolar Disorder: Identified a high correlation coefficient of 0.68.
-Anxiety Disorders & Eating Disorders: Confirmed a significant correlation ranging from 0.59 to 0.60.
+Eating Disorders & Bipolar Disorder: Identified a high correlation coefficient of **0.68**.
+Anxiety Disorders & Eating Disorders: Confirmed a significant correlation ranging from **0.59 to 0.60**.
 Significance: Statistically demonstrated that specific mental disorders are closely interrelated rather than occurring in isolation, highlighting the critical need for multidisciplinary and integrated treatment strategies.
 
 <img width="284" height="213" alt="image" src="https://github.com/user-attachments/assets/ddb1c078-6c06-40af-9ef7-efa86b9916a9" />
@@ -32,8 +32,8 @@ Significance: Statistically demonstrated that specific mental disorders are clos
 
 ### 3. Machine Learning-based Future Projections
 
-- Dual-Track Forecasting: We conducted predictive modeling for both Prevalence (spread of disorders) and DALYs (the actual health burden). This dual approach provides a more holistic view of the future mental health landscape.
-- Key Performance (Prevalence):The predictive model for Eating Disorders recorded an R<sup>2</sup> of 0.9720, demonstrating exceptional accuracy.Models for Anxiety and Bipolar Disorder also showed consistent upward trends with high reliability.
+- Dual-Track Forecasting: We conducted predictive modeling for both **Prevalence** (spread of disorders) and **DALYs** (the actual health burden). This dual approach provides a more holistic view of the future mental health landscape.
+- Key Performance (Prevalence):The predictive model for Eating Disorders recorded an **R<sup>2</sup> of 0.9720**, demonstrating exceptional accuracy.Models for Anxiety and Bipolar Disorder also showed consistent upward trends with high reliability.
 - Key Performance (DALYs):The DALYs projection models achieved high explanatory power, confirming that the societal burden of mental disorders will rise in tandem with prevalence.This validates the model's utility in predicting not just the number of patients, but the increasing demand for long-term healthcare resources.
 ### 📊 Visualization: Prevalence vs. DALYs Projections
 #### 📈 Prevalence Projections (Future Trends in Case Numbers)
