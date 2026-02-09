@@ -110,7 +110,9 @@ Kaggle: Mental Health Dataset
 Here to Help: The Overlap Between Anxiety and Eating Disorders & Bipolar Disorder
 
 Yakovleva et al. (2023): Prevalence of Eating Disorders in Patients with Bipolar Disorder: A Scoping Review of the Literature
+
 McAulay et al. (2019): Eating disorders, bipolar disorders and other mood disorders: Complex and under-researched relationships
+
 Craba et al. (2021): Emerging Trends in Drugs, Addictions, and Health
 
 
